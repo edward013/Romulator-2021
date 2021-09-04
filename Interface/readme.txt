@@ -1,6 +1,6 @@
 The interface will be the part on your computer and control the Romulator to react.
 
-Constants.cs contain the constants you need to use will operating the program.exe.
+Constants.cs contain the constants you need to use while operating the program.exe.
 
 Program.cs contain the main program for interface.
 
